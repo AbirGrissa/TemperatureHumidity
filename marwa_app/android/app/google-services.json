@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831906161006",
+    "project_id": "pfedata-b4c96",
+    "storage_bucket": "pfedata-b4c96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831906161006:android:6dae87f781863e1833217f",
+        "android_client_info": {
+          "package_name": "com.example.marwa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831906161006-eh6k7gpupu00j8u7luht5b2tc50n6hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOK2PUvCK92wNLyB8i6GClCtBgBhvrI70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831906161006-eh6k7gpupu00j8u7luht5b2tc50n6hb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
